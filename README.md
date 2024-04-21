@@ -1,11 +1,3 @@
-- 👋 Hi, I’m Chiran
-- 👀 I’m interested in Physics and Data Science
-- 🌱 I’m currently learning Machine learning while finishing my PhD 
-- ⚡ I enjoy: Listening to podcasts, cooking and long walks
-- 🧑‍🎓 PhD student in Physics (Uni-Potsdam)
-  <!---- 📫 How to reach me ...--->
+Skilled PhD Researcher and Certified Data Scientist with 4+ years of data analytics experience in top research institutes. Expertise in analyzing big datasets using statistical models, data visualization and communication of complex technical information in 5 international conferences and 1 publication. Showcased Data Science skills in multiple projects on GitHub.
 
-<!---
-ChiranNala/ChiranNala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Specialized in research and modelling in Physics. Skilled in Physics, Mathematics and Data Science techniques. Solves problems by employing rigorous scientific methodology. Consistent hard worker, dependable team player, ambitious early career professional determined to make a mark in the field.

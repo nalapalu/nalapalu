@@ -1,4 +1,4 @@
-Hello, I'm Chiran
+PhD Researcher in Physics | Data Science Professional | Translating Numbers into Insights
 
 Skilled PhD Researcher and Certified Data Scientist with 4+ years of data analytics experience in top research institutes. Expertise in analyzing big datasets using statistical models, data visualization and communication of complex technical information in 5 international conferences and 1 publication. Showcased Data Science skills in multiple projects on GitHub.
 

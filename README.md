@@ -1,4 +1,6 @@
-# PhD Researcher in Physics | Data Science Professional | Translating Numbers into Insights
+# Chiranjeevi Nalapalu
+
+## PhD Researcher in Physics | Data Science Professional | Translating Numbers into Insights
 
 - Hi, I’m Chiranjeevi, PhD in Climate Physics.
 - Interested in Data science, Machine Learning and Natural Language Processing.

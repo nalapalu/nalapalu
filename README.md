@@ -6,17 +6,17 @@
 - Interested in Data science, Machine Learning and Natural Language Processing.
 - Reach me at : [Linkedin](https://www.linkedin.com/in/nalapalu/)
 
-Skilled PhD Researcher and Certified Data Scientist with over four years of experience in data analytics at esteemed research institutions. Proficient in analyzing large datasets employing statistical models, data visualization, and effectively communicating intricate technical information at five international conferences and one publication. Demonstrated expertise in data science through various projects on GitHub.
-
-Specialized in research and modeling within the Physics domain. Proficient in Physics, Mathematics, and data science techniques. Employs rigorous scientific methodologies to solve complex problems. A diligent and reliable team player, this ambitious early career professional is determined to establish a significant presence in the field.
+Result-driven data scientist with a strong foundation in extracting actionable insights from complex data and driving business decisions. 4 +years of experience in data analytics in Python, MATLAB, and R. Proficient in analyzing extensive datasets employing data science methodologies and visualization techniques. Approach challenges with a systematic approach, thereby delivering innovative solutions.
 
 
 <h2> &nbsp;Tech Stack</h2>
 
-**Languages** : Python, SQL, R, MATLAB
+**Programming Languages** : Python, SQL, R, MATLAB
 
 **Frameworks** : NumPy, SciPy, Matplotlib, Seaborn, Plotly, Pandas, Scikit-learn, PySpark, TensorFlow, PyTorch
-<!---
-**Tools and Cloud Platforms** : Git
 
+**Tools and Cloud Platforms** : GitHub, Tableau, Power BI, Excel, Alteryx, AWS
+
+**Languages** : English (Professional working proficiency) Hindi (Native)
+<!---
 --->

@@ -1,6 +1,6 @@
 # Chiranjeevi Nalapalu
 
-## PhD Researcher in Physics | Data Scientist 
+## Analyst | Scientist | Educator
 
 - Hi, I’m Chiranjeevi, PhD in Climate Physics.
 - Interested in Data science, Machine Learning and Natural Language Processing.

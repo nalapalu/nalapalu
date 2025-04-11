@@ -1,11 +1,11 @@
 # Chiranjeevi Nalapalu
 
-## Analyst | Scientist | Educator
+## Data Analyst | PhD Physics | Python, SQL, Excel, Tableau
 
-- Hi, I’m Chiranjeevi, PhD in Climate Physics.
+- Hi, I’m Chiranjeevi, PhD Physics.
 - Reach me at : [Linkedin](https://www.linkedin.com/in/nalapalu/)
 
-Result-driven scientist with a strong foundation in extracting actionable insights from complex data and driving business decisions. 4 +years of experience in data analytics in Python, MATLAB, and R. Proficient in analyzing extensive datasets employing data science methodologies and visualization techniques. Approach challenges with a systematic approach, thereby delivering innovative solutions.
+- Result-driven data analyst with a strong foundation in extracting actionable insights from complex data and driving business decisions. 4 +years of experience in data analytics in Python and SQL. Proficient in analyzing extensive datasets employing data science methodologies and visualization techniques. Leveraging my PhD in Physics to apply machine learning and statistical modeling for data-driven problem-solving.
 
 
 <h2> &nbsp;Tech Stack</h2>

@@ -1,6 +1,6 @@
 # Chiranjeevi Nalapalu
 
-## Data Analyst | PhD Physics | Python, SQL, Excel, Tableau
+## Data Analyst | PhD Physics | Python, SQL, Tableau, Excel
 
 - Hi, I’m Chiranjeevi
 

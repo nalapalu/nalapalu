@@ -17,7 +17,7 @@
 
 **Data Science** : Regression models, Ensemble methods, Clustering, Deep Learning, NLP, LLMs
 
-**Tools and Cloud Platforms** : GitHub, Tableau, Power BI, Excel, Alteryx, AWS
+**Tools and Cloud Platforms** : Excel, Tableau, Power BI, GitHub, Snowflake, Alteryx, AWS
 
 **Languages** : English (Professional working proficiency) Hindi (Native)
 <!---
